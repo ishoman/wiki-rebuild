@@ -2,6 +2,13 @@
   background-color: #f9f9f9;
 }
 
-.navbar-right {
-  display: inline-block;
+.float-img {
+  float: right;
+}
+.featured-content {
+  text-align: center;
+}
+
+.featured-footer-content {
+  text-align: right;
 }
