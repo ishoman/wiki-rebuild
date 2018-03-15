@@ -2,13 +2,40 @@
   background-color: #f9f9f9;
 }
 
+/*.col-header-color {
+  height: 50px;
+  border: 2px lightgrey solid;
+  background-color: #CFF2E1;
+}*/
+
 .float-img {
   float: right;
 }
+
 .featured-content {
   text-align: center;
 }
 
 .featured-footer-content {
   text-align: right;
+}
+
+.bg-green {
+  background-color: #CFF2E1;
+  padding: 1%;
+  border: 1px lightgrey solid;
+}
+
+.bg-blue{
+  background-color: #CFDFF1;
+  padding: 1%;
+  border: 1px lightgrey solid;
+}
+
+#col-1 {
+  background-color: #F5FFFA;
+}
+
+#col-2 {
+  background-color: #F5FAFF;
 }
